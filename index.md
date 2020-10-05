@@ -14,7 +14,7 @@
 				<!-- Header -->
 				<!-- Note: The "styleN" class below should match that of the banner element. -->
 					<header id="header" class="alt style2">
-						<a href="index.html" class="logo"><strong>Forty</strong> <span>by HTML5 UP</span></a>
+						<a href="index.html" class="logo"><strong>贺舒瑶</strong> <span>简介</span></a>
 						<nav>
 							<a href="#menu">Menu</a>
 						</nav>
