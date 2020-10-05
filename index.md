@@ -16,7 +16,7 @@
 					<header id="header" class="alt style2">
 						<a href="index.html" class="logo"><strong>贺舒瑶</strong> <span>简介</span></a>
 						<nav>
-							<a href="#menu">Menu</a>
+							<a href=" https://shuyao-he.github.io/growing-experiences/">成长经历</a>
 						</nav>
 					</header>
 
