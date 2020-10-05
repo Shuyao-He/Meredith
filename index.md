@@ -20,10 +20,10 @@
 
 				
 						<ul class="links">
-							<li><a href=" https://shuyao-he.github.io/growing-experiences/">成长经历</a></li>
-							<li><a href="landing.html">Landing</a></li>
-							<li><a href="generic.html">Generic</a></li>
-							<li><a href="elements.html">Elements</a></li>
+							<li><a href="https://shuyao-he.github.io/growing-experiences/">成长经历</a></li>
+							<li><a href="landing.html">性格特征</a></li>
+							<li><a href="generic.html">情感经历</a></li>
+							<li><a href="elements.html">我的核心</a></li>
 						</ul>
 	
 					</nav>
