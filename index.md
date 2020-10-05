@@ -15,15 +15,12 @@
 				<!-- Note: The "styleN" class below should match that of the banner element. -->
 					<header id="header" class="alt style2">
 						<a href="index.html" class="logo"><strong>贺舒瑶</strong> <span>简介</span></a>
-						<nav>
-							<a href=" https://shuyao-he.github.io/growing-experiences/">成长经历</a>
-						</nav>
+					
 					</header>
 
-				<!-- Menu -->
-					<nav id="menu">
+				
 						<ul class="links">
-							<li><a href="index.html">Home</a></li>
+							<li><a href=" https://shuyao-he.github.io/growing-experiences/">成长经历</a></li>
 							<li><a href="landing.html">Landing</a></li>
 							<li><a href="generic.html">Generic</a></li>
 							<li><a href="elements.html">Elements</a></li>
