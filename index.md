@@ -26,8 +26,7 @@
 							<li><a href="elements.html">我的核心</a></li>
 						</ul>
 	
-					</nav>
-
+					
 				
 	</body>
 </html>
