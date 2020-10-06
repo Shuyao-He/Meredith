@@ -25,6 +25,8 @@
 							<li><a href="https://shuyao-he.github.io/haha/">情感经历</a></li>
 							<li><a href="elements.html">我的核心</a></li>
 						</ul>
+						
+						<img scr="foto1.jpg">
 	
 					
 				
