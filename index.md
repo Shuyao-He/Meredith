@@ -23,7 +23,7 @@
 							<li><a href="https://shuyao-he.github.io/growing-experiences/">成长经历</a></li>
 							<li><a href="https://shuyao-he.github.io/personalities/">性格特征</a></li>
 							<li><a href="https://shuyao-he.github.io/haha/">情感经历</a></li>
-							<li><a href="elements.html">我的核心</a></li>
+							<li><a href="https://shuyao-he.github.io/characteristics/">我的核心</a></li>
 						</ul>
 						
 						<img scr="foto1.jpg">
